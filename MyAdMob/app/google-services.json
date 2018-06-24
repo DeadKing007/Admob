@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "553749596681",
+    "firebase_url": "https://admob-b2db6.firebaseio.com",
+    "project_id": "admob-b2db6",
+    "storage_bucket": "admob-b2db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553749596681:android:a7d7af3421867cdc",
+        "android_client_info": {
+          "package_name": "dead.myadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553749596681-n47jag8fkg51hsatch0r8erfk54gmsu7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "553749596681-n47jag8fkg51hsatch0r8erfk54gmsu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFCywmCw9VycTGkmanPwJcwLHBkfO-wY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

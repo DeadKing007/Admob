@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My AdMob</string>
+    <string name="appunitId">ca-app-pub-8132396930531698/8245423390</string>
+    <string name="appid_admob">ca-app-pub-8132396930531698~4542800347</string>
+    <string name="interstitial_ads">Interstitial Ads</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8132396930531698/1265916224</string>
+</resources>
